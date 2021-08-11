@@ -14,7 +14,7 @@ Find your API key and secret in your [Vonage Dashboard](https://dashboard.nexmo.
 
 4. Run `node index.js`.
 
-5. Use [Postman]() or a similar service to make a POST request to `https://localhost:3000/send` with the following JSON object in the request body:  
+5. Use [Postman](https://www.getpostman.com/) or a similar service to make a POST request to `https://localhost:3000/send` with the following JSON object in the request body:  
 ```json
 {
     "toNumber": "YOUR_MOBILE_PHONE_NUMBER",
